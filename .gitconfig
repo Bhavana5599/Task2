@@ -1,0 +1,6 @@
+[user]
+	name = Bhavana5599
+	email = p.bhavanareddy99@gmail.com
+[filesystem "Oracle Corporation|1.8.0_231|-357031852"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 0 nanoseconds
